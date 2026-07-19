@@ -27,7 +27,4 @@ Alles bleibt lokal: keine Datenübertragung, keine Server-Verbindung, kein Track
 
 Nutzung auf eigenes Risiko. Keine Gewähr für Fehlerfreiheit oder Eignung für einen bestimmten Zweck; keine Haftung für Schäden oder Datenverluste, einschließlich durch die Prozess-Beenden-Funktion. Kein Ersatz für professionelle System- oder Sicherheitssoftware.
 
-## Lizenz
-
-© 2026 Björn Scherf – Alle Rechte vorbehalten. Kostenlose Nutzung auf eigenes Risiko, keine Weiterverbreitung ohne Zustimmung.
 
